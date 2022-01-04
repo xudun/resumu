@@ -1,6 +1,7 @@
 # <center>**许顿**</center>
 <center><font size=3>TEL：1881069210&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email：xudun88@126.com</font><center>
 ---
+	
 ## 教育背景
 2011.09-2015.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京航空航天大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;软件学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;软件工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科
 
@@ -55,6 +56,7 @@ grails+gorm;springboot +elasticsearch;redis
 在一个部门下可以存在多个角色，每个角色对应不同权限的同时，可以直接配置精确到人的权限。大大增加了权限分配的灵活性.</br>
 
 ---
+
 ### <div><div style="float:left;" ><font size =5> 天津易华通科技发展有限公司</font> </div><div style="float:right;color:#99CCFF">2016年1月-2017年7月</div><div style="clear:both;"></div></div> ###
 
 ### <div style="color:	#4682B4"><font size=4>⚑银川公交自助充值客户端 <br></div>
@@ -73,7 +75,8 @@ SSH+dwz+WebService<br>
 主要负责内江和开化的公交综合管理系统的开发测试和修改。主要应用SSH+dwz。各种页面的开发修改，对数据库的增删改查等等。</br>
 
 
----
+--- 
+
 ### <font size=5> **北京赞同科技发展有限公司** </font><div style="float:right;color:#99CCFF">2015年4月-2015年11月</div>
 ##### <div style="color:	#4682B4"><font size=4>⚑ 天津银行智能网点建设 SSH+dwz+WebService<br></div>
 <font size=3>**主要工作内容:**<br></font>
